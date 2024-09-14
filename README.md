@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites and learning python 
 - 🌱 I’m currently learning how to develop a car rental system using python
 - 💞️ I’m looking forward to collaborate with you and learn new ideas in programming world
-- 📫 You can reach me theough my email stellahcheloti@gmail.com
+- 📫 You can reach me through my email stellahcheloti@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love travelling, athletics and foodie adventure
 
